@@ -15,10 +15,8 @@ To run the code with a different feature for example a full Ngram feature, go in
 python main.py -f customized
 ```
 Note that the code for Baseline results was largly adapted from the Homework code. 
-##BERT
-Contains Jupyter notebook to run BERT classification on tweets. Requires preprocessed csv file from "CS4650_Disaster_Tweet_Notebook" jupyter notebook under Preprocessing Code folder. 
+
 
 ## Main Results Code
-
-
+BERT folder Contains Jupyter notebook to run BERT classification on tweets. Requires preprocessed csv BiLSTM folder. BiLSTM code is found in the "CS4650_Disaster_Tweet_Notebook" jupyter notebook under the BiLSTM folder
 
