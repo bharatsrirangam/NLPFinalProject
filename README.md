@@ -1,6 +1,9 @@
 # NLP Final Project Code
 ## Directory Structure: 
 The Baseline folder has all the code necessary for obtaining any of the baseline results. 
+The BERT folder has the BERT Jupyter Notebook. 
+The BiLSTM code is in the notebook in the BiLSTM Folder. 
+The Word2Vec code is in the same as the BiLSTM notebook. 
 ## Instillation Instructions
 There is a requirements.txt file that can be used to recreate our environments for this project. Depending on what is run, some packages might not be used. You can use pip to install the packages from this requirements.txt file. 
 ## Preprocessing Code 
