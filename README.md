@@ -20,3 +20,5 @@ Note that the code for Baseline results was largly adapted from the Homework cod
 ## Main Results Code
 BERT folder Contains Jupyter notebook to run BERT classification on tweets. Requires preprocessed csv BiLSTM folder. BiLSTM code is found in the "CS4650_Disaster_Tweet_Notebook" jupyter notebook under the BiLSTM folder
 
+## Acknowledgements
+the BERT code in the jupyter notebook in the BERT directory is based on the code found at the following github link: https://github.com/sugi-chan/custom_bert_pipeline  
